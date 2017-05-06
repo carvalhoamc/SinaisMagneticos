@@ -1,0 +1,75 @@
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector1-620.dat ./experimento800/testvector1-260.dat
+python easy.py ./experimento800/trainvector1-620.dat ./experimento800/testvector1-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector2-620.dat ./experimento800/testvector2-260.dat
+python easy.py ./experimento800/trainvector2-620.dat ./experimento800/testvector2-260.dat
+
+python subset.py -s 1  ./experimento800/out.dat 620 ./experimento800/trainvector3-620.dat ./experimento800/testvector3-260.dat
+python easy.py ./experimento800/trainvector3-620.dat ./experimento800/testvector3-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector4-620.dat ./experimento800/testvector4-260.dat
+python easy.py ./experimento800/trainvector4-620.dat ./experimento800/testvector4-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector5-620.dat ./experimento800/testvector5-260.dat
+python easy.py ./experimento800/trainvector5-620.dat ./experimento800/testvector5-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector6-620.dat ./experimento800/testvector6-260.dat
+python easy.py ./experimento800/trainvector6-620.dat ./experimento800/testvector6-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector7-620.dat ./experimento800/testvector7-260.dat
+python easy.py ./experimento800/trainvector7-620.dat ./experimento800/testvector7-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector8-620.dat ./experimento800/testvector8-260.dat
+python easy.py ./experimento800/trainvector8-620.dat ./experimento800/testvector8-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector9-620.dat ./experimento800/testvector9-260.dat
+python easy.py ./experimento800/trainvector9-620.dat ./experimento800/testvector9-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector10-620.dat ./experimento800/testvector10-260.dat
+python easy.py ./experimento800/trainvector10-620.dat ./experimento800/testvector10-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector11-620.dat ./experimento800/testvector11-260.dat
+python easy.py ./experimento800/trainvector11-620.dat ./experimento800/testvector11-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector12-620.dat ./experimento800/testvector12-260.dat
+python easy.py ./experimento800/trainvector12-620.dat ./experimento800/testvector12-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector13-620.dat ./experimento800/testvector13-260.dat
+python easy.py ./experimento800/trainvector13-620.dat ./experimento800/testvector13-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector14-620.dat ./experimento800/testvector14-260.dat
+python easy.py ./experimento800/trainvector14-620.dat ./experimento800/testvector14-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector15-620.dat ./experimento800/testvector15-260.dat
+python easy.py ./experimento800/trainvector15-620.dat ./experimento800/testvector15-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector16-620.dat ./experimento800/testvector16-260.dat
+python easy.py ./experimento800/trainvector16-620.dat ./experimento800/testvector16-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector17-620.dat ./experimento800/testvector17-260.dat
+python easy.py ./experimento800/trainvector17-620.dat ./experimento800/testvector17-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector18-620.dat ./experimento800/testvector18-260.dat
+python easy.py ./experimento800/trainvector18-620.dat ./experimento800/testvector18-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector19-620.dat ./experimento800/testvector19-260.dat
+python easy.py ./experimento800/trainvector19-620.dat ./experimento800/testvector19-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector20-620.dat ./experimento800/testvector20-260.dat
+python easy.py ./experimento800/trainvector20-620.dat ./experimento800/testvector20-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector21-620.dat ./experimento800/testvector21-260.dat
+python easy.py ./experimento800/trainvector21-620.dat ./experimento800/testvector21-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector22-620.dat ./experimento800/testvector22-260.dat
+python easy.py ./experimento800/trainvector22-620.dat ./experimento800/testvector22-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector23-620.dat ./experimento800/testvector23-260.dat
+python easy.py ./experimento800/trainvector23-620.dat ./experimento800/testvector23-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector24-620.dat ./experimento800/testvector24-260.dat
+python easy.py ./experimento800/trainvector24-620.dat ./experimento800/testvector24-260.dat
+
+python subset.py -s 1 ./experimento800/out.dat 620 ./experimento800/trainvector25-620.dat ./experimento800/testvector25-260.dat
+python easy.py ./experimento800/trainvector25-620.dat ./experimento800/testvector25-260.dat
+

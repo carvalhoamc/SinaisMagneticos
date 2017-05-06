@@ -1,0 +1,77 @@
+#!/usr/bin/env python
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector1-400.dat ./experimento50/testvector1-40.dat
+python easy.py ./experimento50/trainvector1-400.dat ./experimento50/testvector1-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector2-400.dat ./experimento50/testvector2-40.dat
+python easy.py ./experimento50/trainvector2-400.dat ./experimento50/testvector2-40.dat
+
+python subset.py -s 1  ./experimento50/out.dat 400 ./experimento50/trainvector3-400.dat ./experimento50/testvector3-40.dat
+python easy.py ./experimento50/trainvector3-400.dat ./experimento50/testvector3-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector4-400.dat ./experimento50/testvector4-40.dat
+python easy.py ./experimento50/trainvector4-400.dat ./experimento50/testvector4-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector5-400.dat ./experimento50/testvector5-40.dat
+python easy.py ./experimento50/trainvector5-400.dat ./experimento50/testvector5-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector6-400.dat ./experimento50/testvector6-40.dat
+python easy.py ./experimento50/trainvector6-400.dat ./experimento50/testvector6-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector7-400.dat ./experimento50/testvector7-40.dat
+python easy.py ./experimento50/trainvector7-400.dat ./experimento50/testvector7-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector8-400.dat ./experimento50/testvector8-40.dat
+python easy.py ./experimento50/trainvector8-400.dat ./experimento50/testvector8-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector9-400.dat ./experimento50/testvector9-40.dat
+python easy.py ./experimento50/trainvector9-400.dat ./experimento50/testvector9-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector10-400.dat ./experimento50/testvector10-40.dat
+python easy.py ./experimento50/trainvector10-400.dat ./experimento50/testvector10-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector11-400.dat ./experimento50/testvector11-40.dat
+python easy.py ./experimento50/trainvector11-400.dat ./experimento50/testvector11-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector12-400.dat ./experimento50/testvector12-40.dat
+python easy.py ./experimento50/trainvector12-400.dat ./experimento50/testvector12-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector13-400.dat ./experimento50/testvector13-40.dat
+python easy.py ./experimento50/trainvector13-400.dat ./experimento50/testvector13-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector14-400.dat ./experimento50/testvector14-40.dat
+python easy.py ./experimento50/trainvector14-400.dat ./experimento50/testvector14-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector15-400.dat ./experimento50/testvector15-40.dat
+python easy.py ./experimento50/trainvector15-400.dat ./experimento50/testvector15-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector16-400.dat ./experimento50/testvector16-40.dat
+python easy.py ./experimento50/trainvector16-400.dat ./experimento50/testvector16-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector17-400.dat ./experimento50/testvector17-40.dat
+python easy.py ./experimento50/trainvector17-400.dat ./experimento50/testvector17-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector18-400.dat ./experimento50/testvector18-40.dat
+python easy.py ./experimento50/trainvector18-400.dat ./experimento50/testvector18-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector19-400.dat ./experimento50/testvector19-40.dat
+python easy.py ./experimento50/trainvector19-400.dat ./experimento50/testvector19-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector20-400.dat ./experimento50/testvector20-40.dat
+python easy.py ./experimento50/trainvector20-400.dat ./experimento50/testvector20-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector21-400.dat ./experimento50/testvector21-40.dat
+python easy.py ./experimento50/trainvector21-400.dat ./experimento50/testvector21-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector22-400.dat ./experimento50/testvector22-40.dat
+python easy.py ./experimento50/trainvector22-400.dat ./experimento50/testvector22-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector23-400.dat ./experimento50/testvector23-40.dat
+python easy.py ./experimento50/trainvector23-400.dat ./experimento50/testvector23-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector24-400.dat ./experimento50/testvector24-40.dat
+python easy.py ./experimento50/trainvector24-400.dat ./experimento50/testvector24-40.dat
+
+python subset.py -s 1 ./experimento50/out.dat 400 ./experimento50/trainvector25-400.dat ./experimento50/testvector25-40.dat
+python easy.py ./experimento50/trainvector25-400.dat ./experimento50/testvector25-40.dat
+

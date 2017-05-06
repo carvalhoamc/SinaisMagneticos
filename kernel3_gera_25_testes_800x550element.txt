@@ -1,0 +1,75 @@
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector1-620.dat ./experimento_kernel3_800x550/testvector1-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector1-620.dat ./experimento_kernel3_800x550/testvector1-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector2-620.dat ./experimento_kernel3_800x550/testvector2-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector2-620.dat ./experimento_kernel3_800x550/testvector2-260.dat
+
+python subset.py -s 1  ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector3-620.dat ./experimento_kernel3_800x550/testvector3-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector3-620.dat ./experimento_kernel3_800x550/testvector3-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector4-620.dat ./experimento_kernel3_800x550/testvector4-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector4-620.dat ./experimento_kernel3_800x550/testvector4-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector5-620.dat ./experimento_kernel3_800x550/testvector5-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector5-620.dat ./experimento_kernel3_800x550/testvector5-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector6-620.dat ./experimento_kernel3_800x550/testvector6-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector6-620.dat ./experimento_kernel3_800x550/testvector6-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector7-620.dat ./experimento_kernel3_800x550/testvector7-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector7-620.dat ./experimento_kernel3_800x550/testvector7-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector8-620.dat ./experimento_kernel3_800x550/testvector8-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector8-620.dat ./experimento_kernel3_800x550/testvector8-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector9-620.dat ./experimento_kernel3_800x550/testvector9-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector9-620.dat ./experimento_kernel3_800x550/testvector9-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector10-620.dat ./experimento_kernel3_800x550/testvector10-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector10-620.dat ./experimento_kernel3_800x550/testvector10-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector11-620.dat ./experimento_kernel3_800x550/testvector11-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector11-620.dat ./experimento_kernel3_800x550/testvector11-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector12-620.dat ./experimento_kernel3_800x550/testvector12-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector12-620.dat ./experimento_kernel3_800x550/testvector12-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector13-620.dat ./experimento_kernel3_800x550/testvector13-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector13-620.dat ./experimento_kernel3_800x550/testvector13-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector14-620.dat ./experimento_kernel3_800x550/testvector14-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector14-620.dat ./experimento_kernel3_800x550/testvector14-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector15-620.dat ./experimento_kernel3_800x550/testvector15-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector15-620.dat ./experimento_kernel3_800x550/testvector15-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector16-620.dat ./experimento_kernel3_800x550/testvector16-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector16-620.dat ./experimento_kernel3_800x550/testvector16-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector17-620.dat ./experimento_kernel3_800x550/testvector17-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector17-620.dat ./experimento_kernel3_800x550/testvector17-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector18-620.dat ./experimento_kernel3_800x550/testvector18-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector18-620.dat ./experimento_kernel3_800x550/testvector18-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector19-620.dat ./experimento_kernel3_800x550/testvector19-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector19-620.dat ./experimento_kernel3_800x550/testvector19-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector20-620.dat ./experimento_kernel3_800x550/testvector20-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector20-620.dat ./experimento_kernel3_800x550/testvector20-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector21-620.dat ./experimento_kernel3_800x550/testvector21-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector21-620.dat ./experimento_kernel3_800x550/testvector21-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector22-620.dat ./experimento_kernel3_800x550/testvector22-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector22-620.dat ./experimento_kernel3_800x550/testvector22-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector23-620.dat ./experimento_kernel3_800x550/testvector23-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector23-620.dat ./experimento_kernel3_800x550/testvector23-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector24-620.dat ./experimento_kernel3_800x550/testvector24-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector24-620.dat ./experimento_kernel3_800x550/testvector24-260.dat
+
+python subset.py -s 1 ./experimento_kernel3_800x550/out.dat 620 ./experimento_kernel3_800x550/trainvector25-620.dat ./experimento_kernel3_800x550/testvector25-260.dat
+python kernel3easy.py ./experimento_kernel3_800x550/trainvector25-620.dat ./experimento_kernel3_800x550/testvector25-260.dat
+
